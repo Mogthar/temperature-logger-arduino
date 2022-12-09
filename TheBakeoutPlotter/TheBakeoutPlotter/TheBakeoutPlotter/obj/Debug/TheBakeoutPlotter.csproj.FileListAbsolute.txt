@@ -1,0 +1,11 @@
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\bin\Debug\TheBakeoutPlotter.exe.config
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\bin\Debug\TheBakeoutPlotter.exe
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\bin\Debug\TheBakeoutPlotter.pdb
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Debug\TheBakeoutPlotter.csprojAssemblyReference.cache
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Debug\TheBakeoutPlotter.MainForm.resources
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Debug\TheBakeoutPlotter.Properties.Resources.resources
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Debug\TheBakeoutPlotter.csproj.GenerateResource.cache
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Debug\TheBakeoutPlotter.csproj.CoreCompileInputs.cache
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Debug\TheBakeoutPlotter.exe
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Debug\TheBakeoutPlotter.pdb
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Debug\TheBakeoutPlotter.Form2.resources

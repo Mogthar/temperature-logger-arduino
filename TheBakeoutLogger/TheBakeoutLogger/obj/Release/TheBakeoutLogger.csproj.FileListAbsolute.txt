@@ -1,0 +1,10 @@
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\bin\Release\TheBakeoutLogger.exe.config
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\bin\Release\TheBakeoutLogger.exe
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\bin\Release\TheBakeoutLogger.pdb
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.csprojAssemblyReference.cache
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.MainForm.resources
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.Properties.Resources.resources
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.csproj.GenerateResource.cache
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.csproj.CoreCompileInputs.cache
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.exe
+C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.pdb
