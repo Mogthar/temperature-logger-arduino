@@ -18,3 +18,4 @@ C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermoc
 C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Debug\TheBakeoutLogger.csproj.CoreCompileInputs.cache
 C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Debug\TheBakeoutLogger.exe
 C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Debug\TheBakeoutLogger.pdb
+C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Debug\TheBakeoutLogger.csproj.SuggestedBindingRedirects.cache

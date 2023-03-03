@@ -584,17 +584,19 @@ namespace TheBakeoutLogger
 
             //read the pressure from pump1 
             np = Ports_used1[1];
-            double P1 = -1;
+            port_read = "-1";
             if (!(np == -1))
             {
                 try
                 {
+                    ComPorts[np].DiscardOutBuffer();
+                    ComPorts[np].DiscardInBuffer();
+
                     port_write = "Tb\r\n";
                     ComPorts[np].Write(port_write);    
                    
                     System.Threading.Thread.Sleep(pint / 2);
                     port_read = ComPorts[np].ReadExisting();
-                    P1 = Convert.ToDouble(port_read);
                     System.Threading.Thread.Sleep(pint / 2);
 
                 }
@@ -603,23 +605,25 @@ namespace TheBakeoutLogger
                     Console.WriteLine("Misread data on pump1; Timestamp: " + DateAndTime());
                 }
             }
-            new_data = new_data + "," + pn1 + "," + Convert.ToString(P1);
-
+            // new_data = new_data + "," + pn1 + "," + Convert.ToString(P1);
+            new_data = new_data + "," + pn1 + "," + port_read; // comment to restore
 
 
             //read the pressure from pump2 
             np = Ports_used1[2];
-            double P2 = -1;
+            port_read = "-1";
             if (!(np == -1))
             {
                 try
                 {
+                    ComPorts[np].DiscardOutBuffer();
+                    ComPorts[np].DiscardInBuffer();
+
                     port_write = "Tb\r\n";
                     ComPorts[np].Write(port_write);
 
                     System.Threading.Thread.Sleep(pint / 2);
                     port_read = ComPorts[np].ReadExisting();
-                    P2 = Convert.ToDouble(port_read);
                     System.Threading.Thread.Sleep(pint / 2);
                 }
                 catch
@@ -627,23 +631,25 @@ namespace TheBakeoutLogger
                     Console.WriteLine("Misread data on pump2; Timestamp: " + DateAndTime());
                 }
             }
-            new_data = new_data + "," + pn2 + "," + Convert.ToString(P2);
+            new_data = new_data + "," + pn2 + "," + port_read;
 
             //read the pressure from pump3 
             np = Ports_used1[3];
-            double P3 = -1;
+            port_read = "-1";
             if (!(np == -1))
             {
 
 
                 try
                 {
+                    ComPorts[np].DiscardOutBuffer();
+                    ComPorts[np].DiscardInBuffer();
+
                     port_write = "Tb\r\n";
                     ComPorts[np].Write(port_write);
 
                     System.Threading.Thread.Sleep(pint / 2);
                     port_read = ComPorts[np].ReadExisting();
-                    P3 = Convert.ToDouble(port_read);
                     System.Threading.Thread.Sleep(pint / 2);
                 }
                 catch
@@ -652,7 +658,7 @@ namespace TheBakeoutLogger
                 }
 
             }
-            new_data = new_data + "," + pn3 + "," + Convert.ToString(P3);
+            new_data = new_data + "," + pn3 + "," + port_read;
 
             int j = 0;
             while (j < 10)

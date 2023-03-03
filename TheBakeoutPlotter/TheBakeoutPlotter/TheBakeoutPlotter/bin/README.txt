@@ -1,0 +1,1 @@
+release version is the most up to date version. The debug version doesnt work

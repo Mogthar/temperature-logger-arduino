@@ -8,3 +8,14 @@ C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogge
 C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.csproj.CoreCompileInputs.cache
 C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.exe
 C:\Users\LocalUser\Desktop\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.pdb
+C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\bin\Release\TheBakeoutLogger.exe.config
+C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\bin\Release\TheBakeoutLogger.exe
+C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\bin\Release\TheBakeoutLogger.pdb
+C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.csproj.AssemblyReference.cache
+C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.csproj.SuggestedBindingRedirects.cache
+C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.MainForm.resources
+C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.Properties.Resources.resources
+C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.csproj.GenerateResource.cache
+C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.csproj.CoreCompileInputs.cache
+C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.exe
+C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutLogger\TheBakeoutLogger\obj\Release\TheBakeoutLogger.pdb
