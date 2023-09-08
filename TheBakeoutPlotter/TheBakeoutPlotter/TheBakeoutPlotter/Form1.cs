@@ -40,7 +40,7 @@ namespace TheBakeoutPlotter
         private DateTime t1;
         private DateTime t2;
 
-        private double refresh_rate = 10000;        // refresh reate of the plotting
+        private double refresh_rate = 5000;        // refresh reate of the plotting
 
         private double T1 = 0;
         private double T2 = 200;
@@ -282,19 +282,22 @@ namespace TheBakeoutPlotter
                         }
 
                     }
-
-
-                    if (!(Convert.ToDouble(current_line[7]) == 0) && !(Convert.ToDouble(current_line[7]) == -1) && (current_line[6]=="HV_Pump" || current_line[6] == "Cell_Pump" || current_line[6] == "MOT_Pump" ))
+                    if (!(Convert.ToDouble(current_line[6]) == -1))
                     {
-                        this.p_plot.Series[current_line[6]].Points.AddXY(td_stamp, Convert.ToDouble(current_line[7]));
+                        this.p_plot.Series["Turbo"].Points.AddXY(td_stamp, Convert.ToDouble(current_line[6]));
                     }
-                    if (!(Convert.ToDouble(current_line[9]) == 0) && !(Convert.ToDouble(current_line[9]) == -1) && (current_line[8] == "HV_Pump" || current_line[8] == "Cell_Pump" || current_line[8] == "MOT_Pump"))
+                    // add one more index to these
+                    if (!(Convert.ToDouble(current_line[8]) == 0) && !(Convert.ToDouble(current_line[8]) == -1) && (current_line[7]=="HV_Pump" || current_line[7] == "Cell_Pump" || current_line[7] == "MOT_Pump" ))
                     {
-                        this.p_plot.Series[current_line[8]].Points.AddXY(td_stamp, Convert.ToDouble(current_line[9]));
+                        this.p_plot.Series[current_line[7]].Points.AddXY(td_stamp, Convert.ToDouble(current_line[8]));
                     }
-                    if (!(Convert.ToDouble(current_line[11]) == 0) && !(Convert.ToDouble(current_line[11]) == -1) && (current_line[10] == "HV_Pump" || current_line[10] == "Cell_Pump" || current_line[10] == "MOT_Pump"))
+                    if (!(Convert.ToDouble(current_line[10]) == 0) && !(Convert.ToDouble(current_line[10]) == -1) && (current_line[9] == "HV_Pump" || current_line[9] == "Cell_Pump" || current_line[9] == "MOT_Pump"))
                     {
-                        this.p_plot.Series[current_line[10]].Points.AddXY(td_stamp, Convert.ToDouble(current_line[11]));
+                        this.p_plot.Series[current_line[9]].Points.AddXY(td_stamp, Convert.ToDouble(current_line[10]));
+                    }
+                    if (!(Convert.ToDouble(current_line[12]) == 0) && !(Convert.ToDouble(current_line[12]) == -1) && (current_line[11] == "HV_Pump" || current_line[11] == "Cell_Pump" || current_line[11] == "MOT_Pump"))
+                    {
+                        this.p_plot.Series[current_line[11]].Points.AddXY(td_stamp, Convert.ToDouble(current_line[12]));
                     }
                 }
                 _Form2.RefreshMonitors(f2data,f2datacolor);

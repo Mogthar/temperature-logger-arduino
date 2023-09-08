@@ -173,7 +173,6 @@ namespace TheBakeoutLogger
         }
 
         //TODO (if time) remove objects that are no longer in the gui
-        //TOFO decide if we need more baudrate options
         private void MainForm_Load(object sender, EventArgs e)
         {
             temp_startlog.Enabled = false;
@@ -555,7 +554,7 @@ namespace TheBakeoutLogger
 
             //Read the temperature
             //Currently sending in just one temperature. Will need to change this based on what arduino sends
-            string temp_data = ",-1,-1,-1,-1,-1";
+            string temp_data = ",-1,-1,-1,-1,-1,-1";
             Int32 np = Ports_used1[0];
             if (!(np==-1))
             {
