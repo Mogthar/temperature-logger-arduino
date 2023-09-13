@@ -38,8 +38,6 @@
             System.Windows.Forms.DataVisualization.Charting.Title title1 = new System.Windows.Forms.DataVisualization.Charting.Title();
             System.Windows.Forms.DataVisualization.Charting.ChartArea chartArea2 = new System.Windows.Forms.DataVisualization.Charting.ChartArea();
             System.Windows.Forms.DataVisualization.Charting.Legend legend2 = new System.Windows.Forms.DataVisualization.Charting.Legend();
-            System.Windows.Forms.DataVisualization.Charting.Series series17 = new System.Windows.Forms.DataVisualization.Charting.Series();
-            System.Windows.Forms.DataVisualization.Charting.Series series18 = new System.Windows.Forms.DataVisualization.Charting.Series();
             System.Windows.Forms.DataVisualization.Charting.Series series19 = new System.Windows.Forms.DataVisualization.Charting.Series();
             System.Windows.Forms.DataVisualization.Charting.Series series20 = new System.Windows.Forms.DataVisualization.Charting.Series();
             System.Windows.Forms.DataVisualization.Charting.Series series21 = new System.Windows.Forms.DataVisualization.Charting.Series();
@@ -117,7 +115,7 @@
             series1.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
             series1.Color = System.Drawing.Color.LightSkyBlue;
             series1.Legend = "Legend1";
-            series1.LegendText = "MOT PUMP";
+            series1.LegendText = "Top flange";
             series1.MarkerBorderColor = System.Drawing.Color.LightSkyBlue;
             series1.MarkerColor = System.Drawing.Color.LightSkyBlue;
             series1.MarkerStyle = System.Windows.Forms.DataVisualization.Charting.MarkerStyle.Circle;
@@ -129,7 +127,7 @@
             series2.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
             series2.Color = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             series2.Legend = "Legend1";
-            series2.LegendText = "ZS MIRROR";
+            series2.LegendText = "Bottom flange";
             series2.MarkerBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             series2.MarkerColor = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
             series2.MarkerStyle = System.Windows.Forms.DataVisualization.Charting.MarkerStyle.Circle;
@@ -141,7 +139,7 @@
             series3.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
             series3.Color = System.Drawing.Color.Silver;
             series3.Legend = "Legend1";
-            series3.LegendText = "GAUGE VLV";
+            series3.LegendText = "Bellow";
             series3.MarkerBorderColor = System.Drawing.Color.Silver;
             series3.MarkerColor = System.Drawing.Color.Silver;
             series3.MarkerStyle = System.Windows.Forms.DataVisualization.Charting.MarkerStyle.Circle;
@@ -153,7 +151,7 @@
             series4.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
             series4.Color = System.Drawing.Color.Gold;
             series4.Legend = "Legend1";
-            series4.LegendText = "MOT BOT";
+            series4.LegendText = "Pump";
             series4.MarkerBorderColor = System.Drawing.Color.Gold;
             series4.MarkerColor = System.Drawing.Color.Gold;
             series4.MarkerStyle = System.Windows.Forms.DataVisualization.Charting.MarkerStyle.Circle;
@@ -165,7 +163,7 @@
             series5.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
             series5.Color = System.Drawing.Color.CornflowerBlue;
             series5.Legend = "Legend1";
-            series5.LegendText = "MOT TOP";
+            series5.LegendText = "Cube";
             series5.MarkerBorderColor = System.Drawing.Color.CornflowerBlue;
             series5.MarkerColor = System.Drawing.Color.CornflowerBlue;
             series5.MarkerStyle = System.Windows.Forms.DataVisualization.Charting.MarkerStyle.Circle;
@@ -198,22 +196,6 @@
             this.p_plot.Legends.Add(legend2);
             this.p_plot.Location = new System.Drawing.Point(810, 215);
             this.p_plot.Name = "p_plot";
-            series17.BorderWidth = 2;
-            series17.ChartArea = "ChartArea1";
-            series17.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series17.Color = System.Drawing.Color.Red;
-            series17.Legend = "Legend1";
-            series17.Name = "HV_Gauge";
-            series17.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.DateTime;
-            series17.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            series18.BorderWidth = 2;
-            series18.ChartArea = "ChartArea1";
-            series18.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
-            series18.Color = System.Drawing.Color.Aqua;
-            series18.Legend = "Legend1";
-            series18.Name = "UHV_Gauge";
-            series18.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.DateTime;
-            series18.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
             series19.BorderWidth = 2;
             series19.ChartArea = "ChartArea1";
             series19.ChartType = System.Windows.Forms.DataVisualization.Charting.SeriesChartType.Line;
@@ -245,8 +227,6 @@
             series22.Name = "Turbo";
             series22.XValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.DateTime;
             series22.YValueType = System.Windows.Forms.DataVisualization.Charting.ChartValueType.Double;
-            this.p_plot.Series.Add(series17);
-            this.p_plot.Series.Add(series18);
             this.p_plot.Series.Add(series19);
             this.p_plot.Series.Add(series20);
             this.p_plot.Series.Add(series21);
