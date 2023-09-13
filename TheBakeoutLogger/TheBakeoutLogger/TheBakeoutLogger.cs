@@ -553,7 +553,6 @@ namespace TheBakeoutLogger
             }
 
             //Read the temperature
-            //Currently sending in just one temperature. Will need to change this based on what arduino sends
             string temp_data = ",-1,-1,-1,-1,-1,-1";
             Int32 np = Ports_used1[0];
             if (!(np==-1))

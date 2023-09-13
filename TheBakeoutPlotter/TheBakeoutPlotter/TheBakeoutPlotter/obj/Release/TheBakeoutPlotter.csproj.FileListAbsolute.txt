@@ -20,3 +20,14 @@ C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermoc
 C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Release\TheBakeoutPlotter.csproj.CoreCompileInputs.cache
 C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Release\TheBakeoutPlotter.exe
 C:\Users\kucer\OneDrive - Nexus365\Plocha\PhD\Coding\digital_thermometer\Thermocouple reading\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Release\TheBakeoutPlotter.pdb
+C:\Users\kucer\Desktop\PhD\Coding\digital_thermometer\temperature-logger-arduino\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\bin\Release\TheBakeoutPlotter.exe.config
+C:\Users\kucer\Desktop\PhD\Coding\digital_thermometer\temperature-logger-arduino\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\bin\Release\TheBakeoutPlotter.exe
+C:\Users\kucer\Desktop\PhD\Coding\digital_thermometer\temperature-logger-arduino\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\bin\Release\TheBakeoutPlotter.pdb
+C:\Users\kucer\Desktop\PhD\Coding\digital_thermometer\temperature-logger-arduino\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Release\TheBakeoutPlotter.csproj.AssemblyReference.cache
+C:\Users\kucer\Desktop\PhD\Coding\digital_thermometer\temperature-logger-arduino\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Release\TheBakeoutPlotter.MainForm.resources
+C:\Users\kucer\Desktop\PhD\Coding\digital_thermometer\temperature-logger-arduino\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Release\TheBakeoutPlotter.Form2.resources
+C:\Users\kucer\Desktop\PhD\Coding\digital_thermometer\temperature-logger-arduino\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Release\TheBakeoutPlotter.Properties.Resources.resources
+C:\Users\kucer\Desktop\PhD\Coding\digital_thermometer\temperature-logger-arduino\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Release\TheBakeoutPlotter.csproj.GenerateResource.cache
+C:\Users\kucer\Desktop\PhD\Coding\digital_thermometer\temperature-logger-arduino\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Release\TheBakeoutPlotter.csproj.CoreCompileInputs.cache
+C:\Users\kucer\Desktop\PhD\Coding\digital_thermometer\temperature-logger-arduino\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Release\TheBakeoutPlotter.exe
+C:\Users\kucer\Desktop\PhD\Coding\digital_thermometer\temperature-logger-arduino\TheBakeoutPlotter\TheBakeoutPlotter\TheBakeoutPlotter\obj\Release\TheBakeoutPlotter.pdb
